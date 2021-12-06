@@ -12,7 +12,7 @@ userId,movie_tag,tag_count
 
 
 <br>
-**Given CSV file of sales data(find attached SalesJan2009.csv file)**
+**Problem6: Given CSV file of sales data(find attached SalesJan2009.csv file)**
 
 
 Write a Beam pipeline to read the given CSV file of sales data and compute the total sale of every day of Jan 2009. Save the output in another CSV file with headers [date,total_sale].
